@@ -1,0 +1,74 @@
+body {
+/* 	background-color: rgb(35, 23, 94);
+  margin:5%;
+  position: absolute; */
+background-image: url(https://apod.nasa.gov/apod/image/0404/vm45_cortner_c2.jpg);
+    background-repeat: no-repeat;
+    margin: 5%;
+    background-size: cover;
+  font-color: "white";
+}
+
+h1 {
+    position: center;
+	  font-size: 40px; 
+  	color: white;
+	  font-family: 'Julius Sans One';
+}
+
+h2 {
+	  position: center;
+	  font-size: 15px; 
+  	color: white;
+	  font-family: 'Julius Sans One';
+}
+	
+h3 {
+	  position: center;
+	  font-size: 15px; 
+  	color: white;
+	  font-family: 'Julius Sans One';
+}
+
+.red {
+	fill: red;
+}
+.white{
+	fill: white
+}
+.orange{
+	fill: orange;
+}
+.yellow{
+	fill: yellow;
+}
+
+button {
+	position: center;
+	margin: 1.5%;
+	background-color: white;
+  border-radius: 5px; 
+}
+
+h3{
+	
+	position: center;
+	  font-size: 8px; 
+  	color: white;
+	  font-family: 'Julius Sans One';
+	
+}
+
+.tooltip {
+/* 	opacity:0; */
+	position:absolute;
+	    top: 224px;
+    left: 209px;
+	width: 200px;
+	    width: 300px;
+/*     height: 200px; */
+    font-size: 25px;
+		text-justify:justify;
+    padding: 5px;
+    line-height: 1.4;
+}
